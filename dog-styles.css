@@ -31,7 +31,7 @@ main {
     background-image: url("images/dogbackground.jpg");
     background-size: cover;
     background-color:lightpink;
-    width:1317px;
+    width:100%;
     height:797px;
     margin-left: auto;
     margin-right: auto;
@@ -54,7 +54,7 @@ article {
     left: 928px;
     top:182;
     float:left;
-    margin-left:65px;
+    margin-left:70px;
     margin-right:65px;
     padding-top: auto;
 }
